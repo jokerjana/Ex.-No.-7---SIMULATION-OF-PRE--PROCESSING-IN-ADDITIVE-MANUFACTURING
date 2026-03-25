@@ -48,7 +48,7 @@
 <img width="1035" height="483" alt="image" src="https://github.com/user-attachments/assets/02f8a0a0-5ba6-46bf-8d87-6c9c47dd296b" />
 
 ### Name: JANARTHANAN B
-### Register Number: 21222323100014
+### Register Number: 212223100014
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
